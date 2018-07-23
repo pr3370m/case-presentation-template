@@ -8,7 +8,7 @@ A presentation template for cases, written in LaTeX for the ease of doing simila
 
 ### Contributor
 
-- [Visnu Pritom Chowdhury](<visnu.pritom@icddrb.org>)
+> Visnu Pritom Chowdhury <visnu.pritom@icddrb.org>
 
 ---
 
