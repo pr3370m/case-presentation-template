@@ -1,4 +1,4 @@
-# presentation-tamplate
+# Case presentation tamplate
 
 **version 0.1.0**
 
