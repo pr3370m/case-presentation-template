@@ -13,8 +13,10 @@ A presentation template for cases, written in LaTeX for the ease of doing simila
 ---
 
 ## Pre-requisites
+```
 LaTeX
-LaTeX editor (e.g. TexStudio)
+LaTeX editor (e.g. TexStudio) 
+```
 
 ## Usage
 Open the tex file in TexStudio. $>$ Do the content editing as you need. Generate the pdf file. And present it. 
