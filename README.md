@@ -1,8 +1,8 @@
-# case-presentation-gi
+# presentation-tamplate
 
 **version 0.1.0**
 
-A nine years old female child arrived at icddr,b from Narayangonj with the complaints of watery stool and vomiting, with fever and dysurea. This presentation explains how she received clinical managements at the hospital along with her prognosis. 
+A presentation template for cases, written in LaTeX for the ease of doing similar things in future. Hope it helps. 
 
 ---
 
@@ -14,9 +14,7 @@ A nine years old female child arrived at icddr,b from Narayangonj with the compl
 
 ## Pre-requisites
 LaTeX
+LaTeX editor (e.g. TexStudio)
 
 ## Usage
-Install LaTeX first following an IWE (e.g. TexStudio) on your computer. <br>
-Then, download the .tex file along with the images and keep them all in the same directory. <br>
-Open the .tex file in your IWE, modify as you need and generate the .pdf to carry out the presentation. <br>
-# presentation-template
+Open the tex file in TexStudio. $>$ Do the content editing as you need. Generate the pdf file. And present it. 
