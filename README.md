@@ -2,7 +2,8 @@
 
 **version 0.1.0**
 
-A presentation template for cases, written in LaTeX for the ease of doing similar things in future. Hope it helps. 
+A presentation template for cases, written in LaTeX for the ease of doing similar things in future. <br>
+Hope it helps. 
 
 ---
 
