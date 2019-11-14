@@ -24,4 +24,4 @@ Hope it helps.
 - Open the tex file in TexStudio. 
 - Do the content editing. 
 - Generate the pdf file that you need. 
-- And finally, present it. 
+- And present it. 
